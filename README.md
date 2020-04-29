@@ -30,7 +30,7 @@ npm install npm@latest -g
 1. Clone the repo
 
 ```
-git clone hhttps://github.com/Ochanissi/Crwn-Clothing
+git clone https://github.com/Ochanissi/Crwn-Clothing
 ```
 
 2. Run npm install inside project root directory
